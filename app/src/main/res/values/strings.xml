@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SqLiteAuth</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">LOGIN</string>
+    <string name="not_member">No account yet? Create one</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">REGISTER</string>
+    <string name="already_member">Already member? Login</string>
+    <string name="empty_feild">Feild is empty</string>
+    <string name="invalid_feilds">Can\'t Login ! Email or password invalid</string>
+    <string name="password_not_match">Password not match</string>
+    <string name="registration_successful">Registration Successful</string>
+    <string name="email_exist">Email already exist</string>
+    <string name="search">Search</string>
+    <string name="welcome">Welcome</string>
+    <string name="search_hint">Search</string>
+</resources>
